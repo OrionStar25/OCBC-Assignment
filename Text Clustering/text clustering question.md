@@ -1,7 +1,6 @@
 # Take Home Exercise: NLP
  
-With the advancement of NLP in recent years, OCBC has growing aspirations of utilising news text creatively to 
-create, improve and/or augment present and future banking services.
+With the advancement of NLP in recent years, OCBC has growing aspirations of utilising news text creatively to create, improve and/or augment present and future banking services.
 
 Through this exercise, we hope to understand the depth of your understanding of this field of AI/ML as well as your experience working with NLP problems.
 
