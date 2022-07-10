@@ -168,44 +168,4 @@ Multiple steps are taken to clean the data.
 
 ## Future Scope
 
-- 
-    
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+Given this model, it is possible to retrieve results in the form of a recommendation system given a search word. For e.g., if OCBC wants to find articles relating to banking, `Topics 3, 7, 12, 24` are relevant. Using this we can find all the articles in which these topics are dominant and read the corresponding literature. 
